@@ -145,7 +145,7 @@ The Superstore dataset contains:
 
  📷 Dashboard Preview
 
-![Dashboard Preview](Superstore_Sales_dashboard.png)
+![Dashboard Preview](Superstore_Sales_Dashboard.png)
 
 ---
 
